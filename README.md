@@ -2,7 +2,7 @@ Brief Overview
 
 The dataset was gotten from Kaggle. It consists of 10000 rows and 18 columns of data. In this project I performed an exploratory data analysis on a bank customers data to gain insights on some of the primary factors that cause customers to leave i.e customers churn
 
-Obejectives
+Objectives
 
 This Exploratory Data Analysis (EDA) aims to explore possible factors that may lead to bank customers leaving. In this context, “churn” refers to customers who have made the decision to close their accounts or stop using the bank’s services
 
