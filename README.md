@@ -29,7 +29,7 @@ From the analysis, diamond card type had the highest amount of complaints as wel
    
 Recommendations for the Bank:
 
-1. Improve Customer Satisfaction: Conduct regular customer satisfaction surveys to identify pain points and areas for improvement. Addressing customer concerns promptly and effectively can help reduce churn rates.
+1. Improve Customer Satisfaction: Conduct regular customer satisfaction surveys to identify pain points and areas for improvement. Addressing customer concerns promptly and effectively can help reduce churn rates.
 2. Enhance Customer Retention Programs: Develop loyalty programs, personalized offers, and rewards to incentivize customers to stay with the bank. Building strong relationships and providing value-added services can increase customer loyalty.
 3. Focus on Retaining Female Customers: Analyze the reasons behind the higher churn rate among female customers. Tailor marketing and customer service strategies to meet their
 specific needs and preferences.
@@ -37,10 +37,10 @@ specific needs and preferences.
 5. Offer Targeted Financial Solutions: Analyze the needs and preferences of customers within the age group of 50-70. Provide tailored financial solutions, such as retirement planning, investment options, and specialized services, to meet their unique requirements.
 6. Provide Value-added Products and Services: Continuously assess the market to identify emerging trends and offer innovative products and services that differentiate the bank from competitors. Regularly review and update existing offerings to remain competitive.
 7. Foster Trust and Transparency: Build trust and transparency through clear communication, fair pricing, and reliable services. Ensure customers feel valued and have confidence in the bank’s integrity and commitment to their financial well-being.
-8. Complaint Resolution: Improve the complaint resolution process by actively addressing customer complaints, providing prompt and satisfactory solutions, and enhancing customer support channels. This can help reduce churn rates associated with unresolved complaints.
+8. Complaint Resolution: Improve the complaint resolution process by actively addressing customer complaints, providing prompt and satisfactory solutions, and enhancing customer support channels. This can help reduce churn rates associated with unresolved complaints.
 
 Conclusion:
 
-By implementing these recommendations, the bank can strengthen customer relationships, increase customer satisfaction, and ultimately reduce churn rates. Regular monitoring and analysis of customer behavior and feedback will help refine strategies and further improve customer retention efforts.
+By implementing these recommendations, the bank can strengthen customer relationships, increase customer satisfaction, and ultimately reduce churn rates. Regular monitoring and analysis of customer behavior and feedback will help refine strategies and further improve customer retention efforts.
 
 For a clearer view to the filters on the dashboard, check out my Tableau Public: https://public.tableau.com/views/BankCustomerChurnEDA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
