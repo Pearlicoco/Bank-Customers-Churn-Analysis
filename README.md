@@ -12,19 +12,19 @@ Questions & Hypothesis
 
 1. Does different card type have an influence on churned rates?
    
-Hypothesis: Yes, as typically banks tend to offer better products and services for those in a higher tier
+   Hypothesis: Yes, as typically banks tend to offer better products and services for those in a higher tier
 
 2. Is the churned rates higher with lower tier cards?
    
-Hypothesis: Yes, it would make sense for banks to maintain their higher tier card members but not by a huge margin
+   Hypothesis: Yes, it would make sense for banks to maintain their higher tier card members but not by a huge margin
 
 3. Poor complaints handling can leave to higher churned rates, is that the case in this data set?
    
-Hypothesis: Yes, rationally if a customer is not happy with their services, they would transfer over to another bank that best satisfies their needs.
+   Hypothesis: Yes, rationally if a customer is not happy with their services, they would transfer over to another bank that best satisfies their needs.
 
 4. Do bank customers develop a higher churn rate on the long run with the bank?
    
-Hypothesis: No, if a bank customer is satisfied with their services they would continue banking at their current bank.
+   Hypothesis: No, if a bank customer is satisfied with their services they would continue banking at their current bank.
 
 Findings:
 
